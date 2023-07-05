@@ -1,0 +1,28 @@
+Fort Century Gothic 9px
+rgb(255, 247, 212)
+rgb(255, 217, 90)
+rgb(192, 127, 0)
+rgb(76, 61, 61)
+Backcolor InactiveBorder
+FortColor RoyalBlue
+分頁size :1200, 710
+Table size :1100, 550 (location: 50, 130)
+Table Background color : White
+Header High :50
+Tag:(location 10, 10)
+
+icon color : #6308FF button color (94, 54, 255)
+btn new location (965, 85),(1071, 85)(1113, 85)
+search (50, 92)(156, 92)(262, 85)
+columnhead default :
+
+DataGridViewCellStyle { BackColor=Color [A=255, R=216, G=215, B=223], ForeColor=Color [Black], SelectionBackColor=Color [Transparent], SelectionForeColor=Color [A=255, R=128, G=128, B=255], Font=[Font: Name=Century Gothic, Size=11.25, Units=3, GdiCharSet=0, GdiVerticalFont=False], WrapMode=True, Alignment=MiddleCenter }
+
+rowhead default:
+
+DataGridViewCellStyle { BackColor=Color [White], ForeColor=Color [WindowText], SelectionBackColor=Color [White], SelectionForeColor=Color [Black], Font=[Font: Name=Century Gothic, Size=9, Units=3, GdiCharSet=0, GdiVerticalFont=False], WrapMode=True, Alignment=MiddleLeft }
+
+row default cell :
+
+DataGridViewCellStyle { ForeColor=Color [Black], SelectionBackColor=Color [MediumPurple], SelectionForeColor=Color [Black], Font=[Font: Name=Century Gothic, Size=9, Units=3, GdiCharSet=0, GdiVerticalFont=False] }
+

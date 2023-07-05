@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{23C6E23B-FE79-4AAA-842D-9C46A70AC5D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApp1/request.cs">
+    <Files>
+      <File FileName="WindowsFormsApp1/MainPage.cs" />
+      <File FileName="WindowsFormsApp1/MainPage.resx" />
+      <File FileName="WindowsFormsApp1/MainPage.Designer.cs" />
+      <File FileName="WindowsFormsApp1/Form1.cs" />
+      <File FileName="WindowsFormsApp1/Verify.cs" />
+      <File FileName="WindowsFormsApp1/editac.cs" />
+      <File FileName="WindowsFormsApp1/edititem.cs" Line="39" Column="14" />
+      <File FileName="WindowsFormsApp1/WindowsFormsApp1.csproj" />
+      <File FileName="WindowsFormsApp1/request.cs" Line="133" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WindowsFormsApp1" expanded="True">
+            <Node name="WindowsFormsApp1" expanded="True">
+              <Node name="MainPage.cs" expanded="True" />
+              <Node name="request.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WindowsFormsApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
